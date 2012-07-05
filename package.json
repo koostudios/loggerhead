@@ -1,0 +1,13 @@
+{
+  "name": "loggerhead",
+  "description": "Loggerhead is a node application that collects cool data analytics about your website usage.",
+  "version": "0.0.1",
+  "author": "Alexander Yuen",
+  "main": "server.js",
+  "dependencies": {
+    "coffee-script" : "1.2.x",
+    "express"       : "2.5.x",
+    "jade"          : "0.20.x"
+  },
+  "license" : "MIT"
+}
