@@ -1,3 +1,8 @@
 # Loggerhead
 
-Loggerhead is a node app that collects cool data about users.
+Loggerhead is a node application that collects cool data analytics about your website usage.
+
+## Features
+
+- Uses Node, Express
+- Creates a lovely dashboard
